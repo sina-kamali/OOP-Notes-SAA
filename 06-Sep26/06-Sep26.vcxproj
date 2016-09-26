@@ -143,7 +143,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Container.cpp" />
-    <ClCompile Include="dma1.cpp" />
+    <ClCompile Include="namespaces.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Container.h" />
